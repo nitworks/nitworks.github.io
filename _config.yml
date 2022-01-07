@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+domain: nit.works
+url: https://nit.works
+baseurl: /site/      
