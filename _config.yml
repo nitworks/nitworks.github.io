@@ -21,8 +21,8 @@
 title: Nitworks
 email: nitworks@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
-  Solutions Architect looking for interesting problems.
-  "The Devil is in the detail" - I'm here to duel with the Devil.
+  I believe ventures succeed or fail on tedious and unsexy details that get overlooked or mismanaged.
+  If the Devil is in the detail, I'm here to duel with Him.
 domain: nit.works
 baseurl: /nitworks.github.io # the subpath of your site, e.g. /blog
 url: https://nit.works # the base hostname & protocol for your site, e.g. http://example.com

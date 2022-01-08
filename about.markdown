@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+"Nitworks" is a pun on my name, networks and artworks. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am not a big dreamer. Rather, I believe ventures succeed or fail on tedious and unsexy details that get overlooked or mismanaged. I'm here to help shine a light on them and suggest ways to move forward.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I offer consulting in an informal CTO capacity:
+- Product, team and strategy sessions with founders, executives and VCs
+- Requirements gathering sessions with clients and stakeholders
+- Technical whiteboard sessions with engineering teams
+- Feedback and editing on technical documentation (whitepapers, development journals, risk management policies, support procedures etc.)
 
-
-[jekyll-organization]: https://github.com/jekyll
+Currently only accepting new clients via word-of-mouth.
