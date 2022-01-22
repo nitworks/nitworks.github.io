@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "Bikeshedding: your team's biggest waste of time and money"
+title:  "Bikeshedding: you're wasting energy on the wrong things"
 date: 2022-01-22
 categories: biases productivity
 tags: time money waste management meetings focus trivial bias
-published: true
+published: false
 ---
+
 ## The Scenario
+
 Imagine you are in a one-hour board meeting for the launch of a nuclear power station. The chief scientist begins with a presentation on the high-level safety procedures and precautions; waste management, evacuation protocols and all those highly critical components that mean success or failure, and life or death. 
 
 Important stuff, but can be a bit of a snoozefest. The scientist knows this and keeps it succinct - she finishes her presentation in 13 minutes. In the Q&A that follows, only a couple of people ask some relatively basic sanity-checking questions. The scientist reassures them and scans the room waiting for any others. After just the right amount of awkward silence, she yields with 45 minutes left in the meeting.
@@ -22,6 +24,12 @@ This demonstrates the **Law of Triviality**, aka Bikeshedding:
 > Time and energy are disproportionately allocated towards relatively trivial matters at the expense of more important issues.
 
 Think about it - does this happen in your workplace?
+
+## A Real Example
+
+Bikeshedding is rife in software engineering, especially when technology is not the main business. There is a fine balance between engineering high-quality software that is **fit for purpose** and over-engineering a solution because it is the right thing to do from a purely technology perspective.
+
+
 
 ## Why does this happen?
 
@@ -54,11 +62,13 @@ As the saying goes, too many chefs in the kitchen spoil the broth.
 
 Each case will be different, but there are a few things you can do to detect and reduce Bikeshedding in your team and organisation.
 
+- **Remember the mission.** It's easy to get lost in your own goals and over-emphasise them. Have a simple and easy reminder of your company's big picture and mission and make sure your conversations are always in the context of the ultimate goal, not your own.
+
 - **Prioritise often and mercilessly.** This laser-focus on what is most important will reduce the frequency and length of tangential discussions.
 
 - **Separate *Game Time* and *Play Time*.** You don't want people only hyper-focused on the prioritised problems all the time. Tangential discussions can stoke creative ideas that could be incredibly valuable to the future of the firm. All you want is to have dedicated "get shit done" time - so called *Game Time* -  and free-flow bouncing ideas off of each other - *Play Time*. When random ideas come up during *Game Time*, they are easier to park knowing that they can be resumed  during *Play Time*.
 
-- **Dedicate time for tangential discussions in a relaxed environment**, perhaps over a drink or coffee outside of the office on a Friday afternoon. Creativity cannot be forced, but you can create the environment for it to thrive. Office desks often aren't the right environment.
+- **Dedicate time for tangential discussions in a relaxed environment**, perhaps over a drink or coffee outside of the office on a Friday afternoon. Creativity cannot be forced, but you can create the environment for it to thrive. Make this an open invite - people are encouraged to come but not pressured if they have more important or urgent things to do.
 
 - **Empower individuals or small groups with full authority** over a particular project. This reduces the number of opinions, and therefore distractions, early in the project. Invite opinions and feedback regularly on specific aspects where the main authority needs more input to make a decision. In this way, explicit  ownership over projects alone can hugely improve quality and delivery without diminishing the positive effects of teamwork.
 
