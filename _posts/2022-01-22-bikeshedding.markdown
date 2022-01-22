@@ -54,9 +54,11 @@ As the saying goes, too many chefs in the kitchen spoil the broth.
 
 Each case will be different, but there are a few things you can do to detect and reduce Bikeshedding in your team and organisation.
 
-- **Prioritise often and mercilessly.** This laser-focus on what is most important will reduce the frequency and length of tangential discussions during periods of high productivity - what I call *Game Time*.
+- **Prioritise often and mercilessly.** This laser-focus on what is most important will reduce the frequency and length of tangential discussions.
 
-- **Dedicate time for tangential discussions in a relaxed environment**, perhaps over a drink outside of the office on a Friday afternoon. This *Play Time* can often stoke creative ideas that are incredibly valuable to future endeavours. When these conversations come up during *Game Time*, they are easier to park knowing that they can be resumed  during *Play Time*.
+- **Separate *Game Time* and *Play Time*.** You don't want people only hyper-focused on the prioritised problems all the time. Tangential discussions can stoke creative ideas that could be incredibly valuable to the future of the firm. All you want is to have dedicated "get shit done" time - so called *Game Time* -  and free-flow bouncing ideas off of each other - *Play Time*. When random ideas come up during *Game Time*, they are easier to park knowing that they can be resumed  during *Play Time*.
+
+- **Dedicate time for tangential discussions in a relaxed environment**, perhaps over a drink or coffee outside of the office on a Friday afternoon. Creativity cannot be forced, but you can create the environment for it to thrive. Office desks often aren't the right environment.
 
 - **Empower individuals or small groups with full authority** over a particular project. This reduces the number of opinions, and therefore distractions, early in the project. Invite opinions and feedback regularly on specific aspects where the main authority needs more input to make a decision. In this way, explicit  ownership over projects alone can hugely improve quality and delivery without diminishing the positive effects of teamwork.
 
