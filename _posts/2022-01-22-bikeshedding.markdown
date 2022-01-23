@@ -18,6 +18,8 @@ published: true
   {% endfor %}
 </div>
 
+###
+
 Imagine you are in a one-hour board meeting for the launch of a nuclear power station. The chief scientist begins with a presentation on the high-level safety procedures and precautions; waste management, evacuation protocols and all those mission-critical components that mean success or failure, and life or death. 
 
 Important stuff, but can be a bit of a snoozefest. The scientist knows this and keeps it succinct - she finishes her presentation in 13 minutes. In the Q&A that follows, only a couple of people ask some relatively basic sanity-checking questions. The scientist reassures them and scans the room waiting for any others. After just the right amount of awkward silence, she yields with 45 minutes left in the meeting.
