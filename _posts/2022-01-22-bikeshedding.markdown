@@ -6,20 +6,6 @@ category: Productivity
 published: true
 ---
 
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <small><i>In <a href="{{site.baseurl}}/blog/#{{category|slugize}}">{{category}}</a></i></small>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-
-###
-
 Imagine you are in a one-hour board meeting for the launch of a nuclear power station. The chief scientist begins with a presentation on the high-level safety procedures and precautions; waste management, evacuation protocols and all those mission-critical components that mean success or failure, and life or death. 
 
 Important stuff, but can be a bit of a snoozefest. The scientist knows this and keeps it succinct - she finishes her presentation in 13 minutes. In the Q&A that follows, only a couple of people ask some relatively basic sanity-checking questions. The scientist reassures them and scans the room waiting for any others. After just the right amount of awkward silence, she yields with 45 minutes left in the meeting.
@@ -78,7 +64,8 @@ Each case will be different, but there are a few things you can do to detect and
 
 - **Keep meeting agendas tight.** Each item should have an expected amount of time to limit the effects of Parkinson's law. Ensure the moderator has the authority to keep conversations on topic by cutting diversions short and penciling them down for another meeting. At the end of the agenda, give people time back in their day - they will love you for it.
 
-
+*Read more in [Productivity][productivity]*
 
 [parkinsons-law-book]: https://www.amazon.com/Parkinsons-Law-Other-Studies-Administration/dp/0395080681/ref=pd_sbs_1/143-5802041-2046740
 [kamp-article]: https://bikeshed.com/
+[productivity]: https://nit.works/blog#Productivity
