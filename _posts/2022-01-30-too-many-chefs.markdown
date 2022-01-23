@@ -2,8 +2,7 @@
 layout: post
 title:  "How many chefs does it take to change a light bulb?"
 date: 2022-01-22
-categories: biases resilience
-tags: bias management feedback issues resilience
+categories: Productivity
 published: false
 ---
 

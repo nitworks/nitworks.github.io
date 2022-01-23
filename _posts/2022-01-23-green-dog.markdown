@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "If the dog doesn't bark, painting it green won't help"
+date: 2022-01-22
+category: Productivity
+published: false
+---
+
+Imagine two of your colleagues just resigned because they are overworked.

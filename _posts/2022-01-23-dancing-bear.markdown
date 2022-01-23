@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Dancing Bears, Hype Trains and Ninjas"
+title:  "Dancing bears, hype trains and ninja bugs"
 date: 2022-01-22
-categories: biases resilience
-tags: bias management feedback issues resilience
+category: Productivity
 published: false
 ---
 

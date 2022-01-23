@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Early optimisation is the root of all evil"
+title:  "Don't take a lorry to the supermarket when a motorcycle will do"
 date: 2022-01-22
-categories: biases productivity
-tags: time money waste management meetings focus trivial bias
+category: Productivity
 published: false
 ---
 
