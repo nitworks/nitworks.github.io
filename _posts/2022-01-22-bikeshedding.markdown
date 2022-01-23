@@ -14,7 +14,7 @@ published: true
   {% endif %}
   {% for category in categories %}
   <small><i>In <a href="{{site.baseurl}}/#{{category|slugize}}">{{category}}</a></i></small>
-  {% unless forloop.last %}&nbsp;{% endunless %}
+  &nbsp;
   {% endfor %}
 </div>
 

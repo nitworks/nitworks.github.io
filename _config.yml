@@ -36,7 +36,7 @@ plugins:
   - jekyll-remote-theme
 
 minima:
-  skin: solarized
+  skin: classic
   social_links:
     twitter: nitwork5
     github: nitworks
