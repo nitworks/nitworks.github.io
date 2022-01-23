@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Is the bikeshed safe from radiation poisoning?"
+title:  "Is the bikeshed safe from nuclear radiation?"
 date: 2022-01-22
 category: Productivity
 published: true
