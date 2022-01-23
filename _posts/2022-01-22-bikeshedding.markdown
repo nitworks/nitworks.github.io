@@ -7,15 +7,13 @@ tags: time money waste management meetings focus trivial bias bikeshedding law o
 published: true
 ---
 
-## The Scenario
-
 Imagine you are in a one-hour board meeting for the launch of a nuclear power station. The chief scientist begins with a presentation on the high-level safety procedures and precautions; waste management, evacuation protocols and all those highly critical components that mean success or failure, and life or death. 
 
 Important stuff, but can be a bit of a snoozefest. The scientist knows this and keeps it succinct - she finishes her presentation in 13 minutes. In the Q&A that follows, only a couple of people ask some relatively basic sanity-checking questions. The scientist reassures them and scans the room waiting for any others. After just the right amount of awkward silence, she yields with 45 minutes left in the meeting.
 
 Next up is the facilities manager. The plant wants to market itself as climate-friendly so he proposes building a bike shed to encourage employees to cycle to work. The room starts buzzing with discussion on materials, layout, security, cost, aesthetics and anything else that comes to anybody's mind. The meeting runs to the end of the hour, with follow-ups added to the agenda for the next meeting. The board members stand and leave, satisfied with the meeting and their contribution.
 
-## So what's the problem?
+### So what's the problem?
 
 The problem is that the board spent most of the available time and energy on the bike shed - a minor but easy-to-grasp proposal - rather than the safety precautions of the plant that could save lives and the business.
 
@@ -31,7 +29,7 @@ The scenario above is inspired by the example given in the book where this effec
 
 The even more insidious effect is that trivial conversations can lead people to get ever more opinionated. This shifts the focus entirely away from the more important matters. You may notice this happen often in politics.
 
-## Why does this happen?
+### Why does this happen?
 
 Most easy problems have already been solved. Unsolved problems tend to be complex:
 - More factors to consider and trade-off
@@ -53,7 +51,7 @@ Stakeholders rarely want to know the details, just the headline and how it affec
 3. **Micromanagers** - they feel the need to provide opinions, ideas and feedback often on insignificant details.
 4. **Opinionated engineers** - they often have good intentions when sharing knowledge, but it can sometimes mean more time is spent deciding how to correctly log errors than on preventing and handling those errors in the first place.
 
-## How to avoid Bikeshedding
+### How to avoid Bikeshedding
 
 Each case will be different, but there are a few things you can do to detect and reduce Bikeshedding in your team and organisation.
 
