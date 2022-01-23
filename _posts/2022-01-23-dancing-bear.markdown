@@ -6,6 +6,19 @@ category: Productivity
 published: false
 ---
 
+<div class="post-categories">
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  {% for category in categories %}
+  <small><i>In <a href="{{site.baseurl}}/blog/#{{category|slugize}}">{{category}}</a></i></small>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+  </br>
+</div>
+
 ## A More Familiar Example
 
 Suppose you are using Microsoft Excel to analyse large amounts of data and produce reports for your business executives. Randomly one day, Excel hangs and you have to restart. This continues to happen more and more frequently, destroying your productivity. It's not clear what is causing it, so you raise it to your tech team for help.

@@ -14,8 +14,9 @@ published: true
   {% endif %}
   {% for category in categories %}
   <small><i>In <a href="{{site.baseurl}}/blog/#{{category|slugize}}">{{category}}</a></i></small>
-  &nbsp;
+  {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
+  </br>
 </div>
 
 Imagine you are in a one-hour board meeting for the launch of a nuclear power station. The chief scientist begins with a presentation on the high-level safety procedures and precautions; waste management, evacuation protocols and all those mission-critical components that mean success or failure, and life or death. 
