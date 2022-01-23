@@ -12,10 +12,8 @@ published: true
   {% else %}
     {% assign categories = page.categories %}
   {% endif %}
-  {% for category in categories %}
-  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
+  Category: <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+  &nbsp;
 </div>
 
 Imagine you are in a one-hour board meeting for the launch of a nuclear power station. The chief scientist begins with a presentation on the high-level safety procedures and precautions; waste management, evacuation protocols and all those mission-critical components that mean success or failure, and life or death. 

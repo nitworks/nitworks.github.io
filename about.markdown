@@ -10,7 +10,7 @@ Hi, I'm Nitin, a software engineer and solutions architect. While my experience 
 
 I believe ventures succeed or fail on the tedious and unsexy details that often get overlooked or mismanaged. This blog provides examples and guidance on how to handle these better.
 
-Other posts will cover things I'm working on including engineering, architecture, personal finance and economics.
+Other posts will cover various things I'm working on.
 
 ### Advice and Consulting
 
