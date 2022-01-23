@@ -13,7 +13,7 @@ published: true
     {% assign categories = page.categories %}
   {% endif %}
   {% for category in categories %}
-  <small><i>In <a href="{{site.baseurl}}/#{{category|slugize}}">{{category}}</a></i></small>
+  <small><i>In <a href="{{site.baseurl}}/blog/#{{category|slugize}}">{{category}}</a></i></small>
   &nbsp;
   {% endfor %}
 </div>
