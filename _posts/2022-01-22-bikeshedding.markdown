@@ -13,7 +13,7 @@ published: true
     {% assign categories = page.categories %}
   {% endif %}
   {% for category in categories %}
-  <a href="{{site.baseurl}}/#{{category|slugize}}">In {{category}}</a>
+  <small><i>In <a href="{{site.baseurl}}/#{{category|slugize}}">{{category}}</a></i></small>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
 </div>
