@@ -27,7 +27,7 @@ baseurl: /nitworks.github.io # the subpath of your site, e.g. /blog
 url: https://nit.works # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nitwork5
 github_username:  nitworks
-permalink: /:categories/:title/
+permalink: /blog/:categories/:title/
 
 # Build settings
 remote_theme: jekyll/minima
@@ -36,10 +36,11 @@ plugins:
   - jekyll-remote-theme
 
 minima:
-  skin: dark
+  skin: solarized-dark
   social_links:
     twitter: nitwork5
     github: nitworks
+    stackoverflow: "13707707"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
